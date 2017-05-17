@@ -1,2 +1,2 @@
 # invoke-shellcode
-meterpreter
+meterpreter for HID nethunter attacks
